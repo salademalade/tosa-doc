@@ -6,7 +6,7 @@ In the interest of avoiding deaths by disconnects, if a player is unresponsive, 
 
 ## Whisper Bot
 
-Finally, ToS:A makes use of a custom bot called Whisper Bot to manage certain functions that are difficult for a host to replicate on their own, such as whispering, voting, and other role-specific mechanics. Players can use the following commands during a game: 
+Finally, ToS:A makes use of a custom bot called Whisper Bot to manage certain functions that are difficult for a host to replicate on their own, such as whispering, voting, and other role-specific mechanics. Players can use the following commands during a game:
 
 `/whisper <Target player’s name or position> <Message to whisper>`- Used during the day while alive to whisper to an alive player.
 

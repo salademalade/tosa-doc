@@ -12,7 +12,7 @@ Describes what a role’s function is within its faction. Examples of alignments
 
 ## Ability
 
-Allows a role to actively interact with the game in unique ways beyond just speaking and voting. 
+Allows a role to actively interact with the game in unique ways beyond just speaking and voting.
 
 ### Restrictions
 
